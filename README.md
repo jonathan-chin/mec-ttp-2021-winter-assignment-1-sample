@@ -3,7 +3,7 @@ You wake up in an unfamiliar dystopian future. There is a cybernetic cat on the 
 
 **[pet the cat]**
 
-**[examine the half lightsaber]**
+**[examine the half laser-sword]**
 
 **[try to type something]**
 
@@ -17,3 +17,10 @@ You pet the cat, and he immediately lets you know where the can opener and his f
 **[lock the door behind him]**
 
 ---
+
+## [examine the half laser-sword]
+It looks like this sword was used heavily in combat, do you:
+
+**[Add the laser-sword to your inventory]**
+
+**[Leave the laser-sword where you found it]**
