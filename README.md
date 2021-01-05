@@ -24,3 +24,13 @@ It looks like this sword was used heavily in combat, do you:
 **[Add the laser-sword to your inventory]**
 
 **[Leave the laser-sword where you found it]**
+
+---
+
+## [follow him]
+
+You follow the cat out the door. You find yourself at the top of a steep mountain. There is a dragon waiting for you and the cat with a saddle on his back. You can choose to:
+
+**[take the ride]**
+
+**[walk down the mountain]**
