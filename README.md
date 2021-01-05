@@ -34,3 +34,14 @@ You follow the cat out the door. You find yourself at the top of a steep mountai
 **[take the ride]**
 
 **[walk down the mountain]**
+
+---
+
+## [lock the door behind him]
+You hate cats. Especially talking cats. You lock the door behind him and start to make breakfast.
+
+**[cornflakes]**
+
+**[luck charms]**
+
+---
